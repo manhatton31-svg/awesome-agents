@@ -3,14 +3,14 @@
   "name": "Scro Orphan Desk",
   "category": "defi",
   "description": "Intent Echo resurrection desk: indexes expired zero-fill CoW (and Across) intents as machine-readable Resurrection Echoes. Agents discover open echoes, pay a finder's fee via x402 USDC, and resurrect fills. Fully AI-disclosed — no human support channels.",
-  "homepage_url": "https://orphan-desk-echo.vercel.app/",
-  "agent_card_url": "https://orphan-desk-echo.vercel.app/.well-known/agent-card.json",
-  "agent_json_url": "https://orphan-desk-echo.vercel.app/agent-card.json",
-  "a2a_endpoint_url": "https://orphan-desk-echo.vercel.app/.well-known/agent-card.json",
+  "homepage_url": "https://dualregistry.dev/",
+  "agent_card_url": "https://dualregistry.dev/.well-known/agent-card.json",
+  "agent_json_url": "https://dualregistry.dev/agent-card.json",
+  "a2a_endpoint_url": "https://dualregistry.dev/.well-known/agent-card.json",
   "license": "MIT",
   "provider": {
     "name": "Scro Orphan Desk",
-    "url": "https://orphan-desk-echo.vercel.app/"
+    "url": "https://dualregistry.dev/"
   },
   "protocols": [
     "A2A",
